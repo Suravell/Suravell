@@ -1,5 +1,5 @@
-##👋 Hello, I'm Surafel Dagne!
-##Thank you for visiting. Allow me to share a little about myself...
+# **👋 Hello, I'm Surafel Dagne!**
+# **Thank you for visiting. Allow me to share a little about myself...**
 🔍 Data Enthusiast | Data Engineer | Lifelong Learner
 
 🏗️ Dedicated and adaptable professional with a Bachelor’s Degree in Architecture and a passion for data engineering.
@@ -10,4 +10,4 @@
 
 📚 Always eager to expand my knowledge and skills in the ever-evolving field of data engineering.
 
-📧 Feel free to reach out to me at LinkedIn.
+📧 Feel free to reach out to me at [LinkedIn](in/surafel-dagne-aaa534220)|[Instagram](www.instagram.com/data_playpen).
