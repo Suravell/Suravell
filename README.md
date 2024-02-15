@@ -10,4 +10,4 @@
 
 📚 Always eager to expand my knowledge and skills in the ever-evolving field of data engineering.
 
-📧 Feel free to reach out to me at [LinkedIn](in/surafel-dagne-aaa534220)|[Instagram](www.instagram.com/data_playpen).
+📧 Feel free to reach out to me at [LinkedIn](in/surafel-dagne-aaa534220) | [Instagram](www.instagram.com/data_playpen).
