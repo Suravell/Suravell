@@ -1,5 +1,5 @@
-👋 Hello, I'm Surafel Dagne!
-
+##👋 Hello, I'm Surafel Dagne!
+##Thank you for visiting. Allow me to share a little about myself...
 🔍 Data Enthusiast | Data Engineer | Lifelong Learner
 
 🏗️ Dedicated and adaptable professional with a Bachelor’s Degree in Architecture and a passion for data engineering.
