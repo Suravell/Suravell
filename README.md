@@ -10,7 +10,7 @@
 
 🔗 Check out my certifications:
 
-* [IBM Data Engineering](https://coursera.org/share/bc0f4aff186872fd8bf7675e97cd1439)
+* [IBM Data Engineering]([https://coursera.org/share/bc0f4aff186872fd8bf7675e97cd1439](https://coursera.org/share/e5878157e1c216654c23681e5a6e3718))
     
 * [Python for Everybody](https://coursera.org/share/afe6205127e9df5236d94cef28c6f37a)
 
