@@ -6,7 +6,15 @@
 
 🛠️ Leveraging a strong architectural background and recent IBM Data Engineering certification to contribute skills in data engineering, database development, and ETL.
 
-💼 Currently expanding my skills in Microsoft Azure and AWS.
+💼 Currently expanding my skills in # Microsoft Azure and AWS.
+
+🔗 Check out my certifications:
+
+* [IBM Data Engineering](https://coursera.org/share/bc0f4aff186872fd8bf7675e97cd1439)
+    
+* [Python for Everybody](https://coursera.org/share/afe6205127e9df5236d94cef28c6f37a)
+
+* [Data Engineering and Machine Learning using Spark](https://coursera.org/share/0d3e8e80d76e1779b951ac716b30ea98)
 
 🔍 Seeking a challenging role in data engineering to apply expertise gained through hands-on experience and continuous learning.
 
