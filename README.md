@@ -16,6 +16,8 @@
 
 * [Data Engineering and Machine Learning using Spark](https://coursera.org/share/0d3e8e80d76e1779b951ac716b30ea98)
 
+* [Relational Database Administration (DBA)](https://coursera.org/share/88c0d8ac6e55858d2fa5aa2799991f6f)
+
 🔍 Seeking a challenging role in data engineering to apply expertise gained through hands-on experience and continuous learning.
 
 📚 Always eager to expand my knowledge and skills in the ever-evolving field of data engineering.
