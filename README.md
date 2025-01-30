@@ -1,6 +1,6 @@
 # **👋 Hello, I'm Sura Dag!**
 # **Thank you for visiting. Allow me to share a little about myself...**
-🔍 Data Enthusiast | Data Engineer | Lifelong Learner
+🔍  Data Engineer | ETL Developer | Data Warehouse Expert
 
 🏗️ I am a certified Data Engineer with over 7 years of experience in designing, developing, and optimizing scalable data pipelines and data warehousing solutions.
 
