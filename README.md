@@ -22,8 +22,6 @@
 
 * [Microsoft Azure Databricks for Data Engineering](https://coursera.org/share/e0a296778a51d800b93a1b0ffca2642b)
 
-🔍 Seeking a challenging role in data engineering to apply expertise gained through hands-on experience and continuous learning.
-
 📚 Always eager to expand my knowledge and skills in the ever-evolving field of data engineering.
 
 📧 Feel free to reach out to me at [LinkedIn](https://www.linkedin.com/in/surafel-dagne-aaa534220) | [Instagram](https://www.instagram.com/data_playpen)
