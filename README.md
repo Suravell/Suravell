@@ -18,6 +18,10 @@
   
 * [Azure Data Lake Storage Gen2 and Data Streaming Solution](https://coursera.org/share/896af94599180a31384f6f7e994d80c8)
 
+* [Microsoft Azure for Data Engineering](https://coursera.org/share/9deae88e2b3bd2f5005366a6961f2f5c)
+
+* [Microsoft Azure Databricks for Data Engineering](https://coursera.org/share/e0a296778a51d800b93a1b0ffca2642b)
+
 🔍 Seeking a challenging role in data engineering to apply expertise gained through hands-on experience and continuous learning.
 
 📚 Always eager to expand my knowledge and skills in the ever-evolving field of data engineering.
