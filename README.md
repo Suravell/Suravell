@@ -1,12 +1,10 @@
-# **👋 Hello, I'm Surafel Dagne!**
+# **👋 Hello, I'm Sura Dag!**
 # **Thank you for visiting. Allow me to share a little about myself...**
 🔍 Data Enthusiast | Data Engineer | Lifelong Learner
 
-🏗️ Dedicated and adaptable professional with a Bachelor’s Degree in Architecture and a passion for data engineering.
+🏗️ I am a certified Data Engineer with over 7 years of experience in designing, developing, and optimizing scalable data pipelines and data warehousing solutions.
 
-🛠️ Leveraging a strong architectural background and recent IBM Data Engineering certification to contribute skills in data engineering, database development, and ETL.
-
-💼 Currently expanding my skills in Microsoft Azure and AWS.
+🛠️ My expertise spans across a range of technologies including Snowflake, Informatica, PySpark, Talend, and Hive, with a focus on ETL processes, data integration, and data processing systems. I am skilled in data modeling, data cleansing, and ensuring data quality, with a solid foundation in transforming and analyzing large datasets from diverse sources.
 
 🔗 Check out my certifications:
 
@@ -17,6 +15,8 @@
 * [Data Engineering and Machine Learning using Spark](https://coursera.org/share/0d3e8e80d76e1779b951ac716b30ea98)
 
 * [Relational Database Administration (DBA)](https://coursera.org/share/88c0d8ac6e55858d2fa5aa2799991f6f)
+  
+* [Azure Data Lake Storage Gen2 and Data Streaming Solution](https://coursera.org/share/896af94599180a31384f6f7e994d80c8)
 
 🔍 Seeking a challenging role in data engineering to apply expertise gained through hands-on experience and continuous learning.
 
